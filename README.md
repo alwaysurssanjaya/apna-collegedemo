@@ -1,2 +1,2 @@
 # apna-collegedemo
-Author:sanjaya
+Author:sanjaya ghimire
